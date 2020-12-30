@@ -8,15 +8,27 @@
 
 ## Summary
 
+I am a full-stack developer looking for opportunities at all levels of the software stack. I have a passion for building and creating with user experience in mind. I have experience building enterprise applications.
+
 ## Sidebar Information
 
 ### Skills
 
 ### Languages
 
+Proficient: C++, Python, Javascript, Typescript
+Comfortable: HTML, CSS, Java, C#
+
 ### Technologies
 
+React, Flask
+IPC: RabbitMQ, Kafka, Protobuf
+Source Control: Git, SVN
+CI / CD: Jenkins, Mariner, Github Actions
+
 ### Interests
+
+Tennis, Basketball, Snowboarding, Video Games
 
 # Main Page
 
